@@ -1,0 +1,22 @@
+{
+  "name": "vin",
+  "version": "0.0.1",
+  "main": "lib/vin.js",
+  "description": "",
+  "homepage": "https://github.com/blainsmith/node-vin",
+  "bugs": "https://github.com/blainsmith/node-vin/issues",
+  "author": {
+    "name": "Blain Smith",
+    "email": "rebelgeek@blainsmith.com",
+    "url": "http://blainsmith.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blainsmith/node-vin"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
