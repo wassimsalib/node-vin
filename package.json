@@ -1,6 +1,6 @@
 {
   "name": "vin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/vin.js",
   "description": "",
   "homepage": "https://github.com/blainsmith/node-vin",
