@@ -28,7 +28,7 @@
     "jshint-stylish": "~0.1.3"
   },
   "dependencies": {
-    "needle": "^0.6.3",
+    "needle": "^0.7.10",
     "cheerio": "^0.13.1"
   }
 }
